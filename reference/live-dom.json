@@ -1,0 +1,740 @@
+{
+  "imgs": [
+    {
+      "src": "https://pump.fun/_next/image?url=%2Flogo.png&w=64&q=75",
+      "alt": "Pump",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qmd5M3w9mTLZ6UgTP9fRcd7PV5dkBxzAJ3d6uDGmBG1ytK",
+      "alt": "",
+      "w": 774,
+      "h": 775
+    },
+    {
+      "src": "https://www.pinclipart.com/picdir/big/184-1843111_pepe-the-frog-crying-png-clipart.png",
+      "alt": "anon",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmUeGxP7QZyWY7493xh5UwERwpzsuhKuKJJjkjc4Fz4UP1",
+      "alt": "",
+      "w": 490,
+      "h": 460
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qmd5M3w9mTLZ6UgTP9fRcd7PV5dkBxzAJ3d6uDGmBG1ytK",
+      "alt": "",
+      "w": 774,
+      "h": 775
+    },
+    {
+      "src": "https://pump.fun/blast.png",
+      "alt": "blast",
+      "w": 256,
+      "h": 54
+    },
+    {
+      "src": "https://pump.fun/solana.png",
+      "alt": "solana",
+      "w": 2584,
+      "h": 384
+    },
+    {
+      "src": "https://pump.fun/king-of-the-hill.png",
+      "alt": "king of the hill",
+      "w": 429,
+      "h": 83
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qme5t6PHzdzhSZgzihEQ8oFEa2ZupavqPjrMKfQSrGsA2P",
+      "alt": "COOL",
+      "w": 400,
+      "h": 400
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qme5t6PHzdzhSZgzihEQ8oFEa2ZupavqPjrMKfQSrGsA2P",
+      "alt": "",
+      "w": 400,
+      "h": 400
+    },
+    {
+      "src": "https://pump.fun/king.png",
+      "alt": "king of the hill badge",
+      "w": 1920,
+      "h": 1665
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmWELA9w3rzyyQT6hS9edCgbv9ptCDjwNfecoGyeAGdHc6",
+      "alt": "lecrocscat",
+      "w": 380,
+      "h": 514
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmRnVdq7PH1vqrknmJuxfgZd3an6RsyMt5Yaw9iVFLhAHr",
+      "alt": "Kendrug Lamoon",
+      "w": 500,
+      "h": 500
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qmb1TqVAdobryeXAnsQFHVpuehUAyXPqbBfYQDzhzn5GqS",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmQpkAwEtsJZkXMEyjDiPposHhoRBX9odStPEa3p8E8rgP",
+      "alt": "pepe earth day",
+      "w": 981,
+      "h": 981
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmRu444fCdJQjxz5RiKLEbMZszaSnfnnQBhb4MJB5PDbY2",
+      "alt": "The Terch Olympic",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmUr4qiBtQJvv7QMDcxFHXQp4GEmdKyHGLkX8zzt6UYYHG",
+      "alt": "JustBurger",
+      "w": 571,
+      "h": 572
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmUr4qiBtQJvv7QMDcxFHXQp4GEmdKyHGLkX8zzt6UYYHG",
+      "alt": "",
+      "w": 571,
+      "h": 572
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmTwN8UgpafaMFEMJAaLndsgdFxDDz8ymxLZTDohtwQuk9",
+      "alt": "BOOK OF MANEKI",
+      "w": 450,
+      "h": 450
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmcyyhBsY6DfRMWbzmub6iUKvp2BwJFzBmAwAnXu1oUCDv",
+      "alt": "",
+      "w": 446,
+      "h": 848
+    },
+    {
+      "src": "https://pump.fun/king.png",
+      "alt": "king of the hill badge",
+      "w": 1920,
+      "h": 1665
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmWnbvb3op6zRAWoYDix7ppaAnRhr7pK52dLeAjaVuybtr",
+      "alt": "MoonCat",
+      "w": 142,
+      "h": 125
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmWnbvb3op6zRAWoYDix7ppaAnRhr7pK52dLeAjaVuybtr",
+      "alt": "",
+      "w": 142,
+      "h": 125
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qmch9NTeX5XrdzEpSbAwAAujpzubgXzATe2Hh4yHyimGmL",
+      "alt": "Fite Klub",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qmch9NTeX5XrdzEpSbAwAAujpzubgXzATe2Hh4yHyimGmL",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmbXNKQS4nyZLBcQhKhXFbQ72XQfufpM1KKi3sbD6Fy19Y",
+      "alt": "Dong",
+      "w": 640,
+      "h": 640
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmfUvoy2Vp7HW2waBCTjyJCGANA9214CtWweGRNYYtp4ds",
+      "alt": "MemeBusa",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmejN2TX3n5BKkkv3ftEaSXBeNzoUbY6BZF7yS32eBRRaZ",
+      "alt": "Widows Wine",
+      "w": 162,
+      "h": 162
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmX9coezs5UQguyaaM5k7u7D3HHCpKyc6Ji1DJKQioBrNK",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmWLkp9ckpsCFhGHVz4GzX8RQ1fhNqMxaZ9pe4RgvmupEv",
+      "alt": "JOE BODEN",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmUFMUnJq6kDuaKLQjKNobYqxQWfUN6auHTdodmKB7zts1",
+      "alt": "",
+      "w": 640,
+      "h": 640
+    },
+    {
+      "src": "https://pump.fun/king.png",
+      "alt": "king of the hill badge",
+      "w": 1920,
+      "h": 1665
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmdAjqruVmRyf6CoFFPwD8Jr1SKMmGmEwvaQ7iJeqRFJGM",
+      "alt": "What The Sigma",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmX9coezs5UQguyaaM5k7u7D3HHCpKyc6Ji1DJKQioBrNK",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmPgaH6gAAa63ND97djzBKEiFaKc6xmmid9yRnmVhHjaxC",
+      "alt": "Nukey",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmdBc33LRdCfZw3ThYa4n41Q5qB9hMosQJ4LZgeknNfuNY",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/king.png",
+      "alt": "king of the hill badge",
+      "w": 1920,
+      "h": 1665
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qmcw8W1Tk84n4MtmtJGpd5SW3XpTV2SHcnNfw3NjEZmYsw",
+      "alt": "Steve Aoki",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qmf5hcTSj2HrnrQWdYaNer7ScqTM9r868tC3zeS7nfyNDj",
+      "alt": "ede sherum",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qmf5hcTSj2HrnrQWdYaNer7ScqTM9r868tC3zeS7nfyNDj",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmeunKrE44DzTxqShwRvEdMpa3uiyQzwMaaG7nTcSh7T5k",
+      "alt": "Manekid",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmX9coezs5UQguyaaM5k7u7D3HHCpKyc6Ji1DJKQioBrNK",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmQMmVc6fWRAJd7HpUL3mqvW2gGr7ntnZTqiurUtRXcxFV",
+      "alt": "banana cat",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmSLANCf7iuCi3EbpSE6b1WZd4dL4RoYcFFTBqwrhaxqPN",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmWTr3iHyg1AJNnhx1Tuf2mqCWCB6HStLWusVZ4QJyYg38",
+      "alt": "Catman Freeman",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmWTr3iHyg1AJNnhx1Tuf2mqCWCB6HStLWusVZ4QJyYg38",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmUmADUXCff4gUrpG742PWisDbnZfLeFAuJqWvhac7ixhf",
+      "alt": "Christian Chikin",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmeQ5YVzympP53UrcaaiFxMvkQETgSZGVPYEEMwBkLyuGw",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmRdoVdsQrfQP9EZ2Xgb8iZTyHGTsGnxcFPzoReVsmRC2Y",
+      "alt": "The First Shitcoin",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmQr7BGW3T9mxyyBBC42xGN54VL4TY3jEEbimQYvDFzKKP",
+      "alt": "Mamba Pepe \ud83c\udfc0",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmVSTN8NJNNQijooM2hHGBNreK6eTTQxGLvNEeqD4AMUAK",
+      "alt": "$Pepe Punks Coin",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmX7wafKEKFN161R6uF6q6j2mgwaintAWzyyc9Cdt7UGsq",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/king.png",
+      "alt": "king of the hill badge",
+      "w": 1920,
+      "h": 1665
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qme5t6PHzdzhSZgzihEQ8oFEa2ZupavqPjrMKfQSrGsA2P",
+      "alt": "COOL",
+      "w": 400,
+      "h": 400
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qme5t6PHzdzhSZgzihEQ8oFEa2ZupavqPjrMKfQSrGsA2P",
+      "alt": "",
+      "w": 400,
+      "h": 400
+    },
+    {
+      "src": "https://pump.fun/king.png",
+      "alt": "king of the hill badge",
+      "w": 1920,
+      "h": 1665
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmaTi7uKgPuWN6rkXWwBL5cyCJq8tJKZ2nTScZjpTZrjcN",
+      "alt": "Not smol cat",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://pump.fun/king.png",
+      "alt": "king of the hill badge",
+      "w": 1920,
+      "h": 1665
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmURd3yVzVS6BPKNzB7Nqk5vDdsj5T9SWQNgRFhwEdaKNe",
+      "alt": "Manekid",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qma2hwFqwPbc66cn9UDJrJCrcbCGsqJJM62gaJEJqsBgvM",
+      "alt": "Mikel Soyler",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmeY71Fe14nTJdbq5owc2B1pMBi294kRnuEAME3jA9yoY1",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmPBbC2TekAn5APEJ1udDTLrxg1zmzP6jV6PSUWR6BZJ7w",
+      "alt": "TheRealHAT",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmPBbC2TekAn5APEJ1udDTLrxg1zmzP6jV6PSUWR6BZJ7w",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmbvGDf8RHz9Gp4Nwh74gd1LLhr6uSxTTjWguTJVf3jWjp",
+      "alt": "Akatsuki Cats",
+      "w": 1601,
+      "h": 1601
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmbvGDf8RHz9Gp4Nwh74gd1LLhr6uSxTTjWguTJVf3jWjp",
+      "alt": "",
+      "w": 1601,
+      "h": 1601
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmSgozh7e4kEYfmqNTEmRzeRE91enMP19rzbTG92rXzuUh",
+      "alt": "Maneku | Maneki's bf",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://pump.fun/king.png",
+      "alt": "king of the hill badge",
+      "w": 1920,
+      "h": 1665
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmcBEiDyUEgMf1wEtp1u6UBUaEBdoPgejPfom3UYnyCgBo",
+      "alt": "BlackGummy",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmYUr1XkmgauCUCHTDWjpz6xBS7vErzvRbJGCNexxd5zcC",
+      "alt": "Bun Shurpo",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmYUr1XkmgauCUCHTDWjpz6xBS7vErzvRbJGCNexxd5zcC",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmS38nX3Bf4afqVTFyMmU1CMTQVqpFp94av4CAR9RSeW7F",
+      "alt": "Rice Cooker Wif Hat",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmdZkBsoqJ9TvxiiFuAYk8TkGYJzU1VBbatn7eYfMzLD3u",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/king.png",
+      "alt": "king of the hill badge",
+      "w": 1920,
+      "h": 1665
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmdQ1U4WvBx2CbyL53DqS4Xsb6jTtXoS4YGqjHUhZnMwsC",
+      "alt": "ButtleCaps",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmdQ1U4WvBx2CbyL53DqS4Xsb6jTtXoS4YGqjHUhZnMwsC",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/king.png",
+      "alt": "king of the hill badge",
+      "w": 1920,
+      "h": 1665
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmT64soN71r6sfhAmHgZutp8k7RmydtuEyrbAdNZRPjA6b",
+      "alt": "Matt Furie",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmT64soN71r6sfhAmHgZutp8k7RmydtuEyrbAdNZRPjA6b",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qme43Dfi1B4ynuhYKL8MgLzhLWNVvSty3DCS2dxewvfpsH",
+      "alt": "Asian cat",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmXg89jqb4aiHHbL1ukmT6BwLGTphSdEGrp14GHz73pBWD",
+      "alt": "SourGummy",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmS72arhfBiHwu51eXMge8YzLxXNk7HwJyGK32g9oveP8t",
+      "alt": "The Collective",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmRYCNd94saAMCK1rwN5uipGhjRjMVbKGVMbuorSYmQewu",
+      "alt": "MEX Screener",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmVTedcve5UXmDt2rniHJowjxK6tneaBT1bPR2MtmYzfsw",
+      "alt": "Moon Wen",
+      "w": 1170,
+      "h": 1075
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmRfMDzbWNPHrPTUNRc3p5HhVUSog3V7Eq7dLAAUEiVAiy",
+      "alt": "SolCyberDurov",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qmetv4F92weBXm81CVNdDbfSwyheaK4xsg3UYxtDaGLaqg",
+      "alt": "Pessi",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmRzckrnhSWhjZRTHWxqgSxmPAsXY72B8nj2FVnCo9AN8o",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmaGaFMnWgTTaKSdsChTmjUNCEiR3eKq3kgQhAemqDrKcx",
+      "alt": "Xiongmao Coin",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmXR2enUnKSZRrcZx7TBxy8t3PXg7AMhqZ3SgTBx3PWPQZ",
+      "alt": "Manekiller",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmdJyporyTCMQMLc4DchwikP9txdh85JQHtfLvAa6edCu3",
+      "alt": "AssetX",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmfVo4z7c8XbVPpXu1yPsTZPM6N7w75hWxoWLcHoZc2HJE",
+      "alt": "CENSORED",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmZaeYp1FrGYq2K5DzMu6RPmJGh7cw25L2w5Hw8qrsbVX7",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmZCuAKX1Ct27utgRP4iuDtKTsMM9rLfaDg5PVYwB8r78H",
+      "alt": "United Pimp Service",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://pump.fun/king.png",
+      "alt": "king of the hill badge",
+      "w": 1920,
+      "h": 1665
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/Qmezp4mk7Ufv3H5BBgSQVM9xbFf328onSTecZq37UzExrq",
+      "alt": "TRUST",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    },
+    {
+      "src": "https://cf-ipfs.com/ipfs/QmVcskPsZHBtgKMi6v58N3hCgWNh6oUD5w8QGHahJcZHAr",
+      "alt": "PIGGY BANK",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://pump.fun/pepe.png",
+      "alt": "",
+      "w": 1241,
+      "h": 991
+    }
+  ],
+  "buttons": [
+    "[how it works]",
+    "[connect wallet]",
+    "sort: bump order",
+    "order: desc",
+    "[ << ]",
+    "[ >> ]",
+    "[I'm ready to pump]"
+  ],
+  "body": "<span data-radix-focus-guard=\"\" tabindex=\"0\" style=\"outline: none; opacity: 0; position: fixed; pointer-events: none;\" data-aria-hidden=\"true\" aria-hidden=\"true\"></span><script src=\"https://pump.fun/_next/static/chunks/webpack-777eeacec00b5ef1.js\" crossorigin=\"\" async=\"\" data-aria-hidden=\"true\" aria-hidden=\"true\"></script><script data-aria-hidden=\"true\" aria-hidden=\"true\">(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"1:HL[\\\"/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n2:HL[\\\"/_next/static/css/54e6e3ff9a366f3e.css\\\",\\\"style\\\",{\\\"crossOrigin\\\":\\\"\\\"}]\\n0:\\\"$L3\\\"\\n\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"4:HL[\\\"/_next/static/css/c9a3b95e60d92791.css\\\",\\\"style\\\",{\\\"crossOrigin\\\":\\\"\\\"}]\\n\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"5:I[47690,[],\\\"\\\"]\\n7:I[77831,[],\\\"\\\"]\\n8:I[82106,[\\\"167\\\",\\\"static/chunks/167-abe38ba30f023ea9.js\\\",\\\"7133\\\",\\\"static/chunks/7133-5e173216a5036e4d.js\\\",\\\"3178\\\",\\\"static/chunks/3178-3e48d183256fd7e6.js\\\",\\\"439\\\",\\\"static/chunks/439-e195b2095cacbfc0.js\\\",\\\"5546\\\",\\\"static/chunks/5546-cd07b32b81ffd150.js\\\",\\\"3388\\\",\\\"static/chunks/3388-c73d4730346a749f.js\\\",\\\"7649\\\",\\\"static/chunks/7649-39f552c2723971be.js\\\",\\\"6857\\\",\\\"static/chunks/6857-30a0fbc027216492.js\\\",\\\"311\\\",\\\"static/chunks/311-944a250a79019185.js\\\",\\\"344\\\",\\\"static/chunks/app/(main)/board/pag\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"e-a4e641fe012d59a4.js\\\"],\\\"\\\"]\\n9:I[5613,[],\\\"\\\"]\\na:I[31778,[],\\\"\\\"]\\n\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"b:I[33960,[\\\"3814\\\",\\\"static/chunks/3a91511d-19d427ba990d841f.js\\\",\\\"3125\\\",\\\"static/chunks/2f0b94e8-c0f57854991ae716.js\\\",\\\"4335\\\",\\\"static/chunks/97b52221-8e34043eb304fb02.js\\\",\\\"9571\\\",\\\"static/chunks/160b575a-6f4e3a9ec4ace1b5.js\\\",\\\"8310\\\",\\\"static/chunks/0e5ce63c-0bf2d9b4cdc437d1.js\\\",\\\"1787\\\",\\\"static/chunks/b5c10047-2f883bbb3075d77e.js\\\",\\\"2420\\\",\\\"static/chunks/9081a741-5df68603c24e8fb2.js\\\",\\\"167\\\",\\\"static/chunks/167-abe38ba30f023ea9.js\\\",\\\"7133\\\",\\\"static/chunks/7133-5e173216a5036e4d.js\\\",\\\"4358\\\",\\\"static/chunks/4358-547736e804f5a1a5.js\\\",\\\"3178\\\",\\\"static/chunks/3178-3e48d183256fd7e6.js\\\",\\\"439\\\",\\\"static/chunks/439-e195b2095cacbfc0.js\\\",\\\"7956\\\",\\\"static/chunks/7956-e7d3152e9d9a43a7.js\\\",\\\"1806\\\",\\\"static/chunks/1806-c8ccef8c6db17b78.js\\\",\\\"5546\\\",\\\"static/chunks/5546-cd07b32b81ffd150.js\\\",\\\"3388\\\",\\\"static/chunks/3388-c73d4730346a749f.js\\\",\\\"2698\\\",\\\"static/chunks/2698-46f49a4f35113eed.js\\\",\\\"2789\\\",\\\"static/chunks/2789-a44735dd95065edd.js\\\",\\\"4350\\\",\\\"static/chunks/4350-45c51f712134b72c.js\\\",\\\"4095\\\",\\\"static/chunks/app/(main)/layout-be2f66399624f4d8.js\\\"],\\\"\\\"]\\n\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"c:I[2828,[\\\"3814\\\",\\\"static/chunks/3a91511d-19d427ba990d841f.js\\\",\\\"3125\\\",\\\"static/chunks/2f0b94e8-c0f57854991ae716.js\\\",\\\"4335\\\",\\\"static/chunks/97b52221-8e34043eb304fb02.js\\\",\\\"9571\\\",\\\"static/chunks/160b575a-6f4e3a9ec4ace1b5.js\\\",\\\"8310\\\",\\\"static/chunks/0e5ce63c-0bf2d9b4cdc437d1.js\\\",\\\"1787\\\",\\\"static/chunks/b5c10047-2f883bbb3075d77e.js\\\",\\\"2420\\\",\\\"static/chunks/9081a741-5df68603c24e8fb2.js\\\",\\\"167\\\",\\\"static/chunks/167-abe38ba30f023ea9.js\\\",\\\"7133\\\",\\\"static/chunks/7133-5e173216a5036e4d.js\\\",\\\"4358\\\",\\\"static/chunks/4358-547736e804f5a1a5.js\\\",\\\"3178\\\",\\\"static/chunks/3178-3e48d183256fd7e6.js\\\",\\\"439\\\",\\\"static/chunks/439-e195b2095cacbfc0.js\\\",\\\"7956\\\",\\\"static/chunks/7956-e7d3152e9d9a43a7.js\\\",\\\"1806\\\",\\\"static/chunks/1806-c8ccef8c6db17b78.js\\\",\\\"5546\\\",\\\"static/chunks/5546-cd07b32b81ffd150.js\\\",\\\"3388\\\",\\\"static/chunks/3388-c73d4730346a749f.js\\\",\\\"2698\\\",\\\"static/chunks/2698-46f49a4f35113eed.js\\\",\\\"2789\\\",\\\"static/chunks/2789-a44735dd95065edd.js\\\",\\\"4350\\\",\\\"static/chunks/4350-45c51f712134b72c.js\\\",\\\"4095\\\",\\\"static/chunks/app/(main)/layout-be2f66399624f4d8.js\\\"],\\\"Toaster\\\"]\\n\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"d:I[89328,[\\\"3814\\\",\\\"static/chunks/3a91511d-19d427ba990d841f.js\\\",\\\"7133\\\",\\\"static/chunks/7133-5e173216a5036e4d.js\\\",\\\"4358\\\",\\\"static/chunks/4358-547736e804f5a1a5.js\\\",\\\"439\\\",\\\"static/chunks/439-e195b2095cacbfc0.js\\\",\\\"3388\\\",\\\"static/chunks/3388-c73d4730346a749f.js\\\",\\\"8383\\\",\\\"static/chunks/8383-f2f014871ba10f3e.js\\\",\\\"2613\\\",\\\"static/chunks/2613-3e9d6ce0797b7a91.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-133a8053f1efe6a5.js\\\"],\\\"SocketProvider\\\"]\\ne:I[89066,[\\\"3814\\\",\\\"static/chunks/3a91511d-19d427ba990d841f.js\\\",\\\"7133\\\",\\\"static/chunks/7133-\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"5e173216a5036e4d.js\\\",\\\"4358\\\",\\\"static/chunks/4358-547736e804f5a1a5.js\\\",\\\"439\\\",\\\"static/chunks/439-e195b2095cacbfc0.js\\\",\\\"3388\\\",\\\"static/chunks/3388-c73d4730346a749f.js\\\",\\\"8383\\\",\\\"static/chunks/8383-f2f014871ba10f3e.js\\\",\\\"2613\\\",\\\"static/chunks/2613-3e9d6ce0797b7a91.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-133a8053f1efe6a5.js\\\"],\\\"RpcUrlProvider\\\"]\\nf:I[54911,[\\\"3814\\\",\\\"static/chunks/3a91511d-19d427ba990d841f.js\\\",\\\"7133\\\",\\\"static/chunks/7133-5e173216a5036e4d.js\\\",\\\"4358\\\",\\\"static/chunks/4358-547736e804f5a1a5.js\\\",\\\"439\\\",\\\"static/chunks/\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"439-e195b2095cacbfc0.js\\\",\\\"3388\\\",\\\"static/chunks/3388-c73d4730346a749f.js\\\",\\\"8383\\\",\\\"static/chunks/8383-f2f014871ba10f3e.js\\\",\\\"2613\\\",\\\"static/chunks/2613-3e9d6ce0797b7a91.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-133a8053f1efe6a5.js\\\"],\\\"SolanaWalletProvider\\\"]\\n10:I[80323,[\\\"3814\\\",\\\"static/chunks/3a91511d-19d427ba990d841f.js\\\",\\\"7133\\\",\\\"static/chunks/7133-5e173216a5036e4d.js\\\",\\\"4358\\\",\\\"static/chunks/4358-547736e804f5a1a5.js\\\",\\\"439\\\",\\\"static/chunks/439-e195b2095cacbfc0.js\\\",\\\"3388\\\",\\\"static/chunks/3388-c73d4730346a749f.js\\\",\\\"8383\\\",\\\"st\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"atic/chunks/8383-f2f014871ba10f3e.js\\\",\\\"2613\\\",\\\"static/chunks/2613-3e9d6ce0797b7a91.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-133a8053f1efe6a5.js\\\"],\\\"ProfileProvider\\\"]\\n11:I[72471,[\\\"3814\\\",\\\"static/chunks/3a91511d-19d427ba990d841f.js\\\",\\\"7133\\\",\\\"static/chunks/7133-5e173216a5036e4d.js\\\",\\\"4358\\\",\\\"static/chunks/4358-547736e804f5a1a5.js\\\",\\\"439\\\",\\\"static/chunks/439-e195b2095cacbfc0.js\\\",\\\"3388\\\",\\\"static/chunks/3388-c73d4730346a749f.js\\\",\\\"8383\\\",\\\"static/chunks/8383-f2f014871ba10f3e.js\\\",\\\"2613\\\",\\\"static/chunks/2613-3e9d6ce0797b7a91.js\\\",\\\"3\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"185\\\",\\\"static/chunks/app/layout-133a8053f1efe6a5.js\\\"],\\\"PriorityFeeProvider\\\"]\\n12:I[85429,[\\\"3814\\\",\\\"static/chunks/3a91511d-19d427ba990d841f.js\\\",\\\"7133\\\",\\\"static/chunks/7133-5e173216a5036e4d.js\\\",\\\"4358\\\",\\\"static/chunks/4358-547736e804f5a1a5.js\\\",\\\"439\\\",\\\"static/chunks/439-e195b2095cacbfc0.js\\\",\\\"3388\\\",\\\"static/chunks/3388-c73d4730346a749f.js\\\",\\\"8383\\\",\\\"static/chunks/8383-f2f014871ba10f3e.js\\\",\\\"2613\\\",\\\"static/chunks/2613-3e9d6ce0797b7a91.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-133a8053f1efe6a5.js\\\"],\\\"IpfsPrefixProvider\\\"]\\n17:I[4444\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"1,[\\\"3814\\\",\\\"static/chunks/3a91511d-19d427ba990d841f.js\\\",\\\"7133\\\",\\\"static/chunks/7133-5e173216a5036e4d.js\\\",\\\"4358\\\",\\\"static/chunks/4358-547736e804f5a1a5.js\\\",\\\"439\\\",\\\"static/chunks/439-e195b2095cacbfc0.js\\\",\\\"3388\\\",\\\"static/chunks/3388-c73d4730346a749f.js\\\",\\\"8383\\\",\\\"static/chunks/8383-f2f014871ba10f3e.js\\\",\\\"2613\\\",\\\"static/chunks/2613-3e9d6ce0797b7a91.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-133a8053f1efe6a5.js\\\"],\\\"Analytics\\\"]\\n19:I[48955,[],\\\"\\\"]\\n13:{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Co\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"lor Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"}\\n14:{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"}\\n15:{\\\"display\\\":\\\"inline-block\\\"}\\n16:{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0}\\n\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"3:[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/54e6e3ff9a366f3e.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"\\\"}]],[\\\"$\\\",\\\"$L5\\\",null,{\\\"buildId\\\":\\\"PrTAvRBcNw0qwjcYWtRpm\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"initialCanonicalUrl\\\":\\\"/board\\\",\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[\\\"(main)\\\",{\\\"children\\\":[\\\"board\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]}]}]},\\\"$undefined\\\",\\\"$undefined\\\",true],\\\"initialSeedData\\\":[\\\"\\\",{\\\"children\\\":[\\\"(main)\\\",{\\\"children\\\":[\\\"board\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{},[\\\"$L6\\\",[\\\"$\\\",\\\"$L7\\\",null,{\\\"propsForComponent\\\":{\\\"params\\\":{}},\\\"Component\\\":\\\"$8\\\",\\\"isStaticGeneration\\\":true}],null]]},[\\\"$\\\",\\\"$L9\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\",\\\"(main)\\\",\\\"children\\\",\\\"board\\\",\\\"children\\\"],\\\"loading\\\":\\\"$undefined\\\",\\\"loadingStyles\\\":\\\"$undefined\\\",\\\"loadingScripts\\\":\\\"$undefined\\\",\\\"hasLoading\\\":false,\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$La\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":\\\"$undefined\\\",\\\"notFoundStyles\\\":\\\"$undefined\\\",\\\"styles\\\":null}]]},[null,[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"__className_aaf875 bg-primary\\\",\\\"children\\\":[[\\\"$\\\",\\\"$Lb\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L9\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\",\\\"(main)\\\",\\\"children\\\"],\\\"loading\\\":\\\"$undefined\\\",\\\"loadingStyles\\\":\\\"$undefined\\\",\\\"loadingScripts\\\":\\\"$undefined\\\",\\\"hasLoading\\\":false,\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$La\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[],\\\"styles\\\":null}]}],[\\\"$\\\",\\\"$Lc\\\",null,{}]]}]}],null]]},[null,[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"children\\\":[\\\"$\\\",\\\"$Ld\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$Le\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$Lf\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L10\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L11\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L12\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"__className_aaf875 bg-primary\\\",\\\"children\\\":[[\\\"$\\\",\\\"$L9\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"loading\\\":\\\"$undefined\\\",\\\"loadingStyles\\\":\\\"$undefined\\\",\\\"loadingScripts\\\":\\\"$undefined\\\",\\\"hasLoading\\\":false,\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$La\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":\\\"$13\\\",\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":\\\"$14\\\",\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":\\\"$15\\\",\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":\\\"$16\\\",\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[],\\\"styles\\\":[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/c9a3b95e60d92791.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"\\\"}]]}],\\\" \\\",[\\\"$\\\",\\\"$L17\\\",null,{}]]}]}]}]}]}]}]}]}],null]],\\\"initialHead\\\":[false,\\\"$L18\\\"],\\\"globalErrorComponent\\\":\\\"$19\\\"}]]\\n\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"18:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"2\\\",{\\\"children\\\":\\\"Pump\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"3\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Launch a coin that is instantly tradeable without having to seed liquidity.\\\"}],[\\\"$\\\",\\\"link\\\",\\\"4\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/icon.png?c2a22dd8671140c9\\\",\\\"type\\\":\\\"image/png\\\",\\\"sizes\\\":\\\"389x389\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"5\\\",{\\\"name\\\":\\\"next-size-adjust\\\"}]]\\n6:null\\n\"])</script><script data-aria-hidden=\"true\" aria-hidden=\"true\">self.__next_f.push([1,\"\"])</script><div style=\"display: grid; height: 100vh; grid-template-rows: auto auto auto 1fr; align-items: start;\" data-aria-hidden=\"true\" aria-hidden=\"true\"><nav class=\"flex flex-wrap justify-between w-full p-2 items-start h-fit\"><div class=\"flex gap-2 items-center\"><a href=\"https://pump.fun/board\"><img alt=\"Pump\" loading=\"lazy\" width=\"25\" height=\"25\" decoding=\"async\" data-nimg=\"1\" class=\"mr-4\" srcset=\"https://pump.fun/_next/image?url=%2Flogo.png&amp;w=32&amp;q=75 1x, https://pump.fun/_next/image?url=%2Flogo.png&amp;w=64&amp;q=75 2x\" src=\"https://pump.fun/_next/image?url=%2Flogo.png&amp;w=64&amp;q=75\" style=\"color: transparent;\"></a><div class=\"grid h-fit\"><div class=\"flex gap-2\"><a class=\"text-sm text-white hover:underline hover:font-bold\" href=\"https://twitter.com/pumpdotfun\" target=\"_blank\" rel=\"noopener noreferrer\">[twitter]</a><a class=\"text-sm text-white hover:underline hover:font-bold\" href=\"https://t.me/pumpfunsupport\" target=\"_blank\" rel=\"noopener noreferrer\">[support]</a></div><div class=\"flex gap-2\"><a class=\"text-sm text-white hover:underline hover:font-bold\" href=\"https://t.me/launchonpump\" target=\"_blank\" rel=\"noopener noreferrer\">[telegram]</a><button class=\"text-sm text-slate-50 hover:font-bold hover:bg-transparent hover:text-slate-50\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"true\" aria-controls=\"radix-:r2:\" data-state=\"open\">[how it works]</button></div></div><div class=\"hidden md:flex gap-2\"><div class=\"p-2 rounded flex items-center gap-1 text-sm bg-green-300\"><a href=\"https://pump.fun/profile/BUf9Y3hu2CAwrE1nmtetJgLL8qjvZfBxfEShkjMYBX2K\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">BUf9Y3 </div></div></a>bought 1.0000 SOL of<a class=\"hover:underline flex gap-2\" href=\"https://pump.fun/CU8hWc75y5Q1a2KJiyAyrmfyEv2PuW3KKGEuKzYAfFG3\">BLEH<img src=\"https://cf-ipfs.com/ipfs/Qmd5M3w9mTLZ6UgTP9fRcd7PV5dkBxzAJ3d6uDGmBG1ytK\" class=\"h-5 w-5 rounded-full\"></a></div><div class=\"hidden lg:block\"><div class=\"p-2 rounded flex items-center gap-1 text-sm bg-blue-300\"><span class=\"relative flex shrink-0 overflow-hidden rounded-full w-4 h-4\"><img class=\"aspect-square h-full w-full\" alt=\"anon\" src=\"https://www.pinclipart.com/picdir/big/184-1843111_pepe-the-frog-crying-png-clipart.png\"></span><a href=\"https://pump.fun/profile/AJ4pLLns8ocg9mkLvYW77ERUnjM1qLZocrNKfsTAC5Wv\"><span class=\"hover:underline\">AJ4pLL </span></a><span>created </span><a class=\"hover:underline flex gap-2\" href=\"https://pump.fun/BGCgTXSkFpJXQNQaxgHdoJcf8DnAt4pMSzVkW3RqzHmL\">BRUNO<img src=\"https://cf-ipfs.com/ipfs/QmUeGxP7QZyWY7493xh5UwERwpzsuhKuKJJjkjc4Fz4UP1\" class=\"h-5 w-5 rounded-full\"></a><span> on 04/25/24 </span></div></div></div></div><div class=\"md:flex md:gap-2 grid gap-1\"><div class=\"grid justify-items-end\"><button class=\"text-sm text-slate-50 hover:font-bold hover:bg-transparent hover:text-slate-50\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-:r5:\" data-state=\"closed\">[connect wallet]</button></div></div></nav><div class=\"md:hidden justify-self-center p-2 w-fit\"><div class=\"p-2 rounded flex items-center gap-1 text-sm bg-green-300\"><a href=\"https://pump.fun/profile/BUf9Y3hu2CAwrE1nmtetJgLL8qjvZfBxfEShkjMYBX2K\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">BUf9Y3 </div></div></a>bought 1.0000 SOL of<a class=\"hover:underline flex gap-2\" href=\"https://pump.fun/CU8hWc75y5Q1a2KJiyAyrmfyEv2PuW3KKGEuKzYAfFG3\">BLEH<img src=\"https://cf-ipfs.com/ipfs/Qmd5M3w9mTLZ6UgTP9fRcd7PV5dkBxzAJ3d6uDGmBG1ytK\" class=\"h-5 w-5 rounded-full\"></a></div></div><div class=\"justify-self-center\"><div class=\"text-white flex gap-2 items-center text-sm\"><div>selected chain:</div><a href=\"https://blast.pump.fun\" class=\"cursor-pointer border p-1 rounded hover:border-white hover:opacity-100 border-transparent opacity-50\"><img src=\"https://pump.fun/blast.png\" alt=\"blast\" class=\"h-4\"></a><a href=\"https://www.pump.fun\" class=\"cursor-pointer border p-1 rounded hover:border-white hover:opacity-100 border-transparent opacity-50\"><img src=\"https://pump.fun/solana.png\" alt=\"solana\" class=\"h-4\"></a></div></div><main class=\"h-full\"><div class=\"grid h-screen md:gap-12 gap-4\"><div class=\"flex flex-col items-center w-full mt-8\"><a class=\"inline-flex items-center justify-center whitespace-nowrap rounded-md font-medium ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 dark:ring-offset-slate-950 dark:focus-visible:ring-slate-300 dark:hover:bg-slate-800 dark:hover:text-slate-50 h-10 px-4 py-2 mb-4 text-2xl text-slate-50 hover:font-bold hover:bg-transparent hover:text-slate-50\" href=\"https://pump.fun/create\">[start a new coin]</a><div class=\"text-white max-w-[800px] grid gap-2\"><img src=\"https://pump.fun/king-of-the-hill.png\" alt=\"king of the hill\" class=\"h-8 justify-self-center\"><a href=\"https://pump.fun/44gtVVsjS7xgwmqKVW35PfC56rm9bQ36ciyGfeq6MAgV\"><div class=\"p-2 flex border border-transparent hover:border-white gap-2 w-full max-h-[300px] overflow-hidden\"><div class=\"min-w-20\"><img class=\"mr-4 w-20 h-auto\" src=\"https://cf-ipfs.com/ipfs/Qme5t6PHzdzhSZgzihEQ8oFEa2ZupavqPjrMKfQSrGsA2P\" alt=\"COOL\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/CooIman\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/Qme5t6PHzdzhSZgzihEQ8oFEa2ZupavqPjrMKfQSrGsA2P\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">CooIman </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 36.44K<div class=\"flex text-green-500\">[badge: <div><div><div class=\"cursor-pointer hover:opacity-7\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-:rf:\" data-state=\"closed\"><img src=\"https://pump.fun/king.png\" alt=\"king of the hill badge\" class=\"h-4\"></div></div></div>]</div></p><p class=\"text-xs flex items-center gap-2\">replies: 3</p><p class=\"text-sm w-full font-bold\">COOL [ticker: COOL]</p></div></div></a></div></div><div class=\"w-full grid justify-items-center px-2 sm:p-0\"><input class=\"flex h-10 rounded-md text-sm ring-offset-white file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-slate-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-950 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:border-slate-800 dark:bg-slate-950 dark:ring-offset-slate-950 dark:placeholder:text-slate-400 dark:focus-visible:ring-slate-300 p-2 border border-gray-300 w-full max-w-[470px] bg-green-300 text-black border-none focus:border-none active:border-none\" placeholder=\"search for token\" type=\"text\" value=\"\"></div><div class=\"grid gap-6 md:gap-12 md:px-12 px-2\"><div class=\"grid sm:flex gap-4 w-full items-center\"><div class=\"flex gap-4\"><button type=\"button\" role=\"combobox\" aria-controls=\"radix-:r0:\" aria-expanded=\"false\" aria-autocomplete=\"none\" dir=\"ltr\" data-state=\"closed\" class=\"flex h-10 w-full sm:w-fit items-center justify-between rounded-md border border-slate-200 px-3 py-2 text-sm ring-offset-white placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-slate-950 focus:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 [&amp;&gt;span]:line-clamp-1 dark:border-slate-800 dark:bg-slate-950 dark:ring-offset-slate-950 dark:placeholder:text-slate-400 dark:focus:ring-slate-300 bg-green-300 text-black border-none focus:border-none active:border-none\" aria-label=\"Sort\"><span style=\"pointer-events: none;\">sort: bump order</span><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-chevron-down h-4 w-4 opacity-50\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></button><button type=\"button\" role=\"combobox\" aria-controls=\"radix-:r1:\" aria-expanded=\"false\" aria-autocomplete=\"none\" dir=\"ltr\" data-state=\"closed\" class=\"flex h-10 w-full sm:w-fit items-center justify-between rounded-md border border-slate-200 px-3 py-2 text-sm ring-offset-white placeholder:text-slate-500 focus:outline-none focus:ring-2 focus:ring-slate-950 focus:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 [&amp;&gt;span]:line-clamp-1 dark:border-slate-800 dark:bg-slate-950 dark:ring-offset-slate-950 dark:placeholder:text-slate-400 dark:focus:ring-slate-300 bg-green-300 text-black border-none focus:border-none active:border-none\" aria-label=\"Order\"><span style=\"pointer-events: none;\">order: desc</span><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-chevron-down h-4 w-4 opacity-50\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></button></div><div class=\"flex gap-1 h-fit items-center text-white\"><div>Show animations:</div><div class=\"cursor-pointer px-1 rounded bg-green-300 text-black\">On</div><div class=\"cursor-pointer px-1 rounded hover:bg-gray-800 text-gray-500\">Off</div></div><div class=\"flex gap-1 h-fit items-center text-white\"><div>Include nsfw:</div><div class=\"cursor-pointer px-1 rounded hover:bg-gray-800 text-gray-500\">On</div><div class=\"cursor-pointer px-1 rounded bg-green-300 text-black\">Off</div></div></div><div class=\"grid grid-col-1 md:grid-cols-2 lg:grid-cols-3 text-gray-400 gap-4\"><a href=\"https://pump.fun/ATUWXqv24WCcUyZ8uCHMWM2fp5AiBAqQqUp1MCKrCsez\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmWELA9w3rzyyQT6hS9edCgbv9ptCDjwNfecoGyeAGdHc6\" alt=\"lecrocscat\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/3dwJWZtjKSyVgossztSLm5pLPJX5rb3AUHjgRecGXNrJ\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">3dwJWZ </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.75K</p><p class=\"text-xs flex items-center gap-2\">replies: 7</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">lecrocscat (ticker: $LECROC): </span>dat kitteh in crocs be leik an genius haccer bustin' out of le matrix! wen he bolts, he's gonna torch 10% of le cashish and slin' sum crocs via airdrop.  Catch u on le flip side of le matrix, suckers!</p></div></div></a><a href=\"https://pump.fun/53qirL9LmJHqkxUTwEkCpLhfWGNFTJhMUuaNpnFEzZBA\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmRnVdq7PH1vqrknmJuxfgZd3an6RsyMt5Yaw9iVFLhAHr\" alt=\"Kendrug Lamoon\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/wkndbender\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/Qmb1TqVAdobryeXAnsQFHVpuehUAyXPqbBfYQDzhzn5GqS\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">wkndbender </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 8.30K</p><p class=\"text-xs flex items-center gap-2\">replies: 34</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Kendrug Lamoon (ticker: KENDRUG): </span>Ni**a f them big jeets, it's just big profit. https://t.me/kendruglamoon</p></div></div></a><a href=\"https://pump.fun/9dhidjZQyWz4QBU2GSjg532ryEga3EdRCBFFCUyXyPog\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmQpkAwEtsJZkXMEyjDiPposHhoRBX9odStPEa3p8E8rgP\" alt=\"pepe earth day\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/B6DiqjkvLvuQSo1NcAEPi1UVyYU9HSDRWAWBkXEVNAWU\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">B6Diqj </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 8.79K</p><p class=\"text-xs flex items-center gap-2\">replies: 8</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">pepe earth day (ticker: PEPEARTH): </span>PEPE IS VERY EXCITED, HIS FAVORITE DAY OF THE YEAR IS FINALLY HERE! PEPE LUVZ THE EARTH AS MUCH AS HE LOVES HIS BAGS, LET US SHOW YOU HOW MUCH THAT REALLY IS!  follow us on twitter and join the community tg </p></div></div></a><a href=\"https://pump.fun/3rA9WjR9zVALZv3JvrMkoMebVnfKS6iiD1aRY68a5enq\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmRu444fCdJQjxz5RiKLEbMZszaSnfnnQBhb4MJB5PDbY2\" alt=\"The Terch Olympic\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/GTZCojPH7YsMGT4xy8zMB2PbQdwuPvaQYgArn8BPFrPp\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">GTZCoj </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.68K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">The Terch Olympic (ticker: TTO): </span>who's bearing the Olumpec Terch? \ud83d\udd6f</p></div></div></a><a href=\"https://pump.fun/Bvf39eGKp2iwjD4CRWL2odrSm45zoWH7djaQm1eqhx4e\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmUr4qiBtQJvv7QMDcxFHXQp4GEmdKyHGLkX8zzt6UYYHG\" alt=\"JustBurger\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/JustBurger\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmUr4qiBtQJvv7QMDcxFHXQp4GEmdKyHGLkX8zzt6UYYHG\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">JustBurger </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.73K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">JustBurger (ticker: BURGER): </span>just a BURGER the best one on solana </p></div></div></a><a href=\"https://pump.fun/FG4RC3KEKLYJzaQw6emRm1vzB8rURyzS4nHZg2ZAkBaG\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmTwN8UgpafaMFEMJAaLndsgdFxDDz8ymxLZTDohtwQuk9\" alt=\"BOOK OF MANEKI\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/lil_bro\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmcyyhBsY6DfRMWbzmub6iUKvp2BwJFzBmAwAnXu1oUCDv\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">lil_bro </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 6.89K<div class=\"flex text-green-500\">[badge: <div><div><div class=\"cursor-pointer hover:opacity-7\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-:rg:\" data-state=\"closed\"><img src=\"https://pump.fun/king.png\" alt=\"king of the hill badge\" class=\"h-4\"></div></div></div>]</div></p><p class=\"text-xs flex items-center gap-2\">replies: 49</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">BOOK OF MANEKI (ticker: BOM): </span> \"Introducing 'Book of Maneki' \u2013 the purrfect meme coin that brings luck to your crypto adventures! Inspired by the iconic Japanese 'Maneki-neko' (beckoning cat), this coin promises to bring fortune and prosperity to all its holders. Join the journey of whimsical charm and financial gains with Book of Maneki!\"</p></div></div></a><a href=\"https://pump.fun/GCGKAAqNR7SNtVjc4jG5gnHDuMFHTBbQfQjp4AGrDgRC\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmWnbvb3op6zRAWoYDix7ppaAnRhr7pK52dLeAjaVuybtr\" alt=\"MoonCat\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/MoonCatSol\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmWnbvb3op6zRAWoYDix7ppaAnRhr7pK52dLeAjaVuybtr\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">MoonCatSol </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 25.30K</p><p class=\"text-xs flex items-center gap-2\">replies: 37</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">MoonCat (ticker: MCAT): </span>Moon Cat, a symbol of prosperity and abundance in the cosmos</p></div></div></a><a href=\"https://pump.fun/FXHG5uxxSpH937eaySzuwUReT6reaF69wy4wHiD1eWdP\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/Qmch9NTeX5XrdzEpSbAwAAujpzubgXzATe2Hh4yHyimGmL\" alt=\"Fite Klub\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/fite\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/Qmch9NTeX5XrdzEpSbAwAAujpzubgXzATe2Hh4yHyimGmL\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">fite </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 5.60K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Fite Klub (ticker: FITE): </span>teh furst roole abut fite klub iz u tel ur frendz to buy fite klub.</p></div></div></a><a href=\"https://pump.fun/39kkAUjRnKGXsXNC2WgnpC6HyJtreBYF7X98SjRj2cti\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmbXNKQS4nyZLBcQhKhXFbQ72XQfufpM1KKi3sbD6Fy19Y\" alt=\"Dong\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/Dong\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">Dong </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 5.33K</p><p class=\"text-xs flex items-center gap-2\">replies: 64</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Dong (ticker: Dong): </span>if you have a small \ud83c\udf46 don\u2019t buy $dong DONG IS ETERNAL. DONG OUTS FOR DONG.  Old song died. We are bringing dong to everyone </p></div></div></a><a href=\"https://pump.fun/2stvLmhLdTjQjEHWX8se4LPaQGgZAXqXTu7XHsJRCoBH\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmfUvoy2Vp7HW2waBCTjyJCGANA9214CtWweGRNYYtp4ds\" alt=\"MemeBusa\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/UranusIs\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">UranusIs </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.80K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">MemeBusa (ticker: TurbBusa): </span>The one and only fastest Busa there is, gapping the H2 and it\u2019s brother H2R years ago, it has moved onto the gapping of Apollo and it\u2019s rocket ships, for its race to the moon.</p></div></div></a><a href=\"https://pump.fun/8gVqAhR16JXUkAYKkoDc7GKoKK5eN8PWpvFnspAiyUHP\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmejN2TX3n5BKkkv3ftEaSXBeNzoUbY6BZF7yS32eBRRaZ\" alt=\"Widows Wine\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/feasting\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmX9coezs5UQguyaaM5k7u7D3HHCpKyc6Ji1DJKQioBrNK\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">feasting </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.56K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Widows Wine (ticker: WINOWS): </span>Comoonity of black ops 3 lovers</p></div></div></a><a href=\"https://pump.fun/67yowczaYbVyvubF4kpPZCjrqmxFwSVFR3VTwPBMs2iY\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmWLkp9ckpsCFhGHVz4GzX8RQ1fhNqMxaZ9pe4RgvmupEv\" alt=\"JOE BODEN\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/x0000\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmUFMUnJq6kDuaKLQjKNobYqxQWfUN6auHTdodmKB7zts1\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">x0000 </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 39.81K<div class=\"flex text-green-500\">[badge: <div><div><div class=\"cursor-pointer hover:opacity-7\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-:rh:\" data-state=\"closed\"><img src=\"https://pump.fun/king.png\" alt=\"king of the hill badge\" class=\"h-4\"></div></div></div>]</div></p><p class=\"text-xs flex items-center gap-2\">replies: 24</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">JOE BODEN (ticker: $JOE): </span>$JOE the president USA NFT Collection of 2222 $JOE Bodens came to Solana. $JOE will be launched on pump.fun to become the #1 currency in USA. Roadmap will be announced in TG chat.</p></div></div></a><a href=\"https://pump.fun/5NnWiUjvjfvtSFNRNKxaMZLa3uH1UK5qG4ERnDc1LZsX\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmdAjqruVmRyf6CoFFPwD8Jr1SKMmGmEwvaQ7iJeqRFJGM\" alt=\"What The Sigma\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/feasting\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmX9coezs5UQguyaaM5k7u7D3HHCpKyc6Ji1DJKQioBrNK\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">feasting </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.53K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">What The Sigma (ticker: WTS): </span>Uhm... What The Sigma? UhmWhatTheSigma Uhm... What The Sigma?</p></div></div></a><a href=\"https://pump.fun/BbciExji4fhSbqcEWRvqrvNpumJy2y3kCKajc2XGDvLi\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmPgaH6gAAa63ND97djzBKEiFaKc6xmmid9yRnmVhHjaxC\" alt=\"Nukey\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/Swapor\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmdBc33LRdCfZw3ThYa4n41Q5qB9hMosQJ4LZgeknNfuNY\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">Swapor </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 38.89K<div class=\"flex text-green-500\">[badge: <div><div><div class=\"cursor-pointer hover:opacity-7\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-:ri:\" data-state=\"closed\"><img src=\"https://pump.fun/king.png\" alt=\"king of the hill badge\" class=\"h-4\"></div></div></div>]</div></p><p class=\"text-xs flex items-center gap-2\">replies: 154</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Nukey (ticker: NUKEY): </span>Meet Nukey, the adorable end-of-the-world memecoin that\u2019s more than just a cute face. \u2622\ufe0f \ud83e\udde2  Twitter: https://twitter.com/NukeyOnSOL Telegram: https://t.me/NukeyOnSOL Website: https://nukeyonsol.com</p></div></div></a><a href=\"https://pump.fun/3SgpnhweufK4es51xxfwku3GNoGwtGR4ePtWn2AjCSsv\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/Qmcw8W1Tk84n4MtmtJGpd5SW3XpTV2SHcnNfw3NjEZmYsw\" alt=\"Steve Aoki\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/AokiDev\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">AokiDev </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 10.22K</p><p class=\"text-xs flex items-center gap-2\">replies: 3</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Steve Aoki (ticker: AOKI): </span>Aoki for president each vote = 1 Cake. https://twitter.com/AOKIonSol https://t.me/AokiOnSol</p></div></div></a><a href=\"https://pump.fun/7oCu5bpUZtXqbNMxJMbn2MgYipx5ZUamb8pek1anGwtx\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/Qmf5hcTSj2HrnrQWdYaNer7ScqTM9r868tC3zeS7nfyNDj\" alt=\"ede sherum\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/EdeSherum\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/Qmf5hcTSj2HrnrQWdYaNer7ScqTM9r868tC3zeS7nfyNDj\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">EdeSherum </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.67K</p><p class=\"text-xs flex items-center gap-2\">replies: 42</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">ede sherum (ticker: EdShrum): </span>Im in love wit da sheip of iu! retardio musician meta .</p></div></div></a><a href=\"https://pump.fun/BqfjBh23yuQiF7aKeF95KH82AyzQm5bXhSDuFZj6JDqa\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmeunKrE44DzTxqShwRvEdMpa3uiyQzwMaaG7nTcSh7T5k\" alt=\"Manekid\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/feasting\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmX9coezs5UQguyaaM5k7u7D3HHCpKyc6Ji1DJKQioBrNK\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">feasting </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.99K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Manekid (ticker: MANEKID): </span>  MANEKID  MANEKID  In a wonderful world where Maneki is the real sun king cat, a young lad comes out unable to match his strength. Nevertheless, with the help of his immeasurable power, he manages to transform into a little kid and give birth to this new universe. Are you ready to be part of this epic journey?  MANEKIT will be the one to take you to this universe full of immeasurable wealth. What are you waiting for? </p></div></div></a><a href=\"https://pump.fun/4zJpFLtJgAiUZt4JF2YYhCjgnotZg6kUHCTQpoZXXrPj\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmQMmVc6fWRAJd7HpUL3mqvW2gGr7ntnZTqiurUtRXcxFV\" alt=\"banana cat\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/solseeker4\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmSLANCf7iuCi3EbpSE6b1WZd4dL4RoYcFFTBqwrhaxqPN\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">solseeker4 </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 15.06K</p><p class=\"text-xs flex items-center gap-2\">replies: 3</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">banana cat (ticker: banana): </span>just a silly banana cat dancing on solana</p></div></div></a><a href=\"https://pump.fun/FiBtaBJBHpEpHSkLfHUBwkYSEf1ZctH7UgQn752Pji1d\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmWTr3iHyg1AJNnhx1Tuf2mqCWCB6HStLWusVZ4QJyYg38\" alt=\"Catman Freeman\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/fd5ax\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmWTr3iHyg1AJNnhx1Tuf2mqCWCB6HStLWusVZ4QJyYg38\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">fd5ax </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.73K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Catman Freeman (ticker: CATN): </span>Meow Niggas</p></div></div></a><a href=\"https://pump.fun/J1UHD7ZdNT3ua5mM4DqDA9ymE8XzxT9UfWi227Z4akX6\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmUmADUXCff4gUrpG742PWisDbnZfLeFAuJqWvhac7ixhf\" alt=\"Christian Chikin\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/ChrisChkn\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmeQ5YVzympP53UrcaaiFxMvkQETgSZGVPYEEMwBkLyuGw\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">ChrisChkn </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 9.61K</p><p class=\"text-xs flex items-center gap-2\">replies: 15</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Christian Chikin (ticker: $CC): </span>The Holy Chikin \u271d\ufe0f\ud83d\udc2e\ud83c\uddfa\ud83c\uddf8 https://www.christianchicken.top/</p></div></div></a><a href=\"https://pump.fun/2zxqe4HGKv7uajkwtCAY76aM6WD1S54NrHr3UuYeTFWT\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmRdoVdsQrfQP9EZ2Xgb8iZTyHGTsGnxcFPzoReVsmRC2Y\" alt=\"The First Shitcoin\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/9E1Jx3iVkLryT6fszU7Cvg1KWR7Edqgz5tv5u4ETzNM5\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">9E1Jx3 </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 15.28K</p><p class=\"text-xs flex items-center gap-2\">replies: 7</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">The First Shitcoin (ticker: SHIT): </span>I'm so tired of seeing so many CrapCoins pop up everyday and nobody at least admits their coin is total dogshit.  So I'm Launching a new coin in hopes this will jump the CrapCoin Shark:  SHIT. ShitCoin will be the biggest POS coin you've ever seen.  No, not Proof of Stake, that's absurd, but \"Piece Of Shit\" coin. https://t.me/FirstShitcoin https://twitter.com/FirstShitcoin </p></div></div></a><a href=\"https://pump.fun/4pCMD8kNuUjXv9By7gQEajaJtV79pb5vVWLVW55cgQNs\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmQr7BGW3T9mxyyBBC42xGN54VL4TY3jEEbimQYvDFzKKP\" alt=\"Mamba Pepe \ud83c\udfc0\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/idk123\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">idk123 </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 5.22K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Mamba Pepe \ud83c\udfc0 (ticker: $KOBE): </span>A tribute to a legend \ud83d\udc0d. Dunk into the crypto court with Mamba Pepe \u2014 all heart, all hustle, all in honor of the great Kobe.\ud83c\udf1f.  \ud83c\udfc0\ud83c\udfc0\ud83c\udfc0\ud83c\udfc0\ud83c\udfc0 Twitter: https://twitter.com/mambapepe TG: https://t.me/mambapepe_sol Website: https://www.mambapepe.xyz/ \ud83c\udfc0\ud83c\udfc0\ud83c\udfc0\ud83c\udfc0\ud83c\udfc0</p></div></div></a><a href=\"https://pump.fun/EF827Dgr6ajDcoZHPMd2BdGULLvcQ2wCcRvgk9vFi384\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmVSTN8NJNNQijooM2hHGBNreK6eTTQxGLvNEeqD4AMUAK\" alt=\"$Pepe Punks Coin\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/zomboy\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmX7wafKEKFN161R6uF6q6j2mgwaintAWzyyc9Cdt7UGsq\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">zomboy </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 22.03K<div class=\"flex text-green-500\">[badge: <div><div><div class=\"cursor-pointer hover:opacity-7\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-:rj:\" data-state=\"closed\"><img src=\"https://pump.fun/king.png\" alt=\"king of the hill badge\" class=\"h-4\"></div></div></div>]</div></p><p class=\"text-xs flex items-center gap-2\">replies: 90</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">$Pepe Punks Coin (ticker: PPC): </span>It all began when a mischievous programmer accidentally spilled rare Pepe essence onto a batch of Crypto Punks, causing a bizarre metamorphosis. The result? Crypto Punks sporting froggy features and Pepe donning punk rock attire. Chaos ensued as the newly formed \"Punk Frogs\" roamed the blockchain, ribbiting rebelliously and hacking into solana meme stocks. Their antics attracted the attention of the internet, sparking a bidding war among collectors who sought the ultimate blend of rarity and absurdity. As the world pondered the profound question\u2014\u201cAre they rare frogs or punky memes?\u201d\u2014the $Pepe Punk continued their uproarious adventure, forever immortalized in the annals of digital folklore.</p></div></div></a><a href=\"https://pump.fun/44gtVVsjS7xgwmqKVW35PfC56rm9bQ36ciyGfeq6MAgV\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/Qme5t6PHzdzhSZgzihEQ8oFEa2ZupavqPjrMKfQSrGsA2P\" alt=\"COOL\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/CooIman\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/Qme5t6PHzdzhSZgzihEQ8oFEa2ZupavqPjrMKfQSrGsA2P\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">CooIman </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 32.33K<div class=\"flex text-green-500\">[badge: <div><div><div class=\"cursor-pointer hover:opacity-7\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-:rk:\" data-state=\"closed\"><img src=\"https://pump.fun/king.png\" alt=\"king of the hill badge\" class=\"h-4\"></div></div></div>]</div></p><p class=\"text-xs flex items-center gap-2\">replies: 3</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">COOL (ticker: COOL): </span>70% of supply distributed between NFT holders.</p></div></div></a><a href=\"https://pump.fun/EqFcvpdrw1vNa6uKZj39oCcMbtZ7frjDGokov8eUsF4U\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmaTi7uKgPuWN6rkXWwBL5cyCJq8tJKZ2nTScZjpTZrjcN\" alt=\"Not smol cat\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/kingly\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">kingly </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 31.21K<div class=\"flex text-green-500\">[badge: <div><div><div class=\"cursor-pointer hover:opacity-7\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-:rl:\" data-state=\"closed\"><img src=\"https://pump.fun/king.png\" alt=\"king of the hill badge\" class=\"h-4\"></div></div></div>]</div></p><p class=\"text-xs flex items-center gap-2\">replies: 154</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Not smol cat (ticker: King): </span>Me not Smol </p></div></div></a><a href=\"https://pump.fun/Bo8efosQCihphEG5PL28CbeXPgQTovfVs3UGgJMnJozN\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmURd3yVzVS6BPKNzB7Nqk5vDdsj5T9SWQNgRFhwEdaKNe\" alt=\"Manekid\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/B5DSPMNXz9iSiQHWbsTUAFczbsiaxmVgXZdRRHTgkpk\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">B5DSPM </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.99K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Manekid (ticker: $MANEKID): </span>MANEKID - $MANEKID  In a wonderful world where Maneki is the real sun king cat, a young lad comes out unable to match his strength. Nevertheless, with the help of his immeasurable power, he manages to transform into a little kid and give birth to this new universe. Are you ready to be part of this epic journey?  $MANEKIT will be the one to take you to this universe full of immeasurable wealth. What are you waiting for? \u2705Tg: https://t.me/ManekidSol  \u274cTw: https://twitter.com/ManekidSol   \ud83c\udf10Website: https://manekid.vip/</p></div></div></a><a href=\"https://pump.fun/2yjLfHBGDjSrqV9PieWy19zAGyKXRM41j7KXu3oLpfGP\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/Qma2hwFqwPbc66cn9UDJrJCrcbCGsqJJM62gaJEJqsBgvM\" alt=\"Mikel Soyler\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/buyafterme\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmeY71Fe14nTJdbq5owc2B1pMBi294kRnuEAME3jA9yoY1\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">buyafterme </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 12.18K</p><p class=\"text-xs flex items-center gap-2\">replies: 17</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Mikel Soyler (ticker: SOYLER): </span>Mikel Soyler is an Amurican entrprnor, bisnesmon, teh nambr #1 BTC hodlr nd feundr &amp; CEO of MecroSrtegi. Fuk curncy, al heil BTC.</p></div></div></a><a href=\"https://pump.fun/3BBao196ctSRfxRWjQxY4Dysf7mHjyx17na9NK8LdGJg\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmPBbC2TekAn5APEJ1udDTLrxg1zmzP6jV6PSUWR6BZJ7w\" alt=\"TheRealHAT\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/TheRealHat\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmPBbC2TekAn5APEJ1udDTLrxg1zmzP6jV6PSUWR6BZJ7w\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">TheRealHat </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 12.35K</p><p class=\"text-xs flex items-center gap-2\">replies: 148</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">TheRealHAT (ticker: HAT): </span>We are everwhere. You cant ignore us.  WE WILL HAT THE WHOLE INTERNET  SPREAD THE HAT $HAT $HAT $HAT $HAT $HAT $HAT $HAT $HAT $HAT</p></div></div></a><a href=\"https://pump.fun/7KMpNLfN9zzQVKCn9vonM9khMFtvK38LQv5KAnaEGEbe\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmbvGDf8RHz9Gp4Nwh74gd1LLhr6uSxTTjWguTJVf3jWjp\" alt=\"Akatsuki Cats\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/catkatsukl\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmbvGDf8RHz9Gp4Nwh74gd1LLhr6uSxTTjWguTJVf3jWjp\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">catkatsukl </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 12.36K</p><p class=\"text-xs flex items-center gap-2\">replies: 42</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Akatsuki Cats (ticker: CATKATSUKI): </span>Akatsuki Cats | Join Our Forces: https://t.me/+4nKX3KDK1VEzNzkx</p></div></div></a><a href=\"https://pump.fun/22zjQ1xiNGhR7QKn2DYf1AcJ9Uja8gy4gdnVSmGXnGxb\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmSgozh7e4kEYfmqNTEmRzeRE91enMP19rzbTG92rXzuUh\" alt=\"Maneku | Maneki's bf\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/fed777\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">fed777 </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 7.73K<div class=\"flex text-green-500\">[badge: <div><div><div class=\"cursor-pointer hover:opacity-7\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-:rm:\" data-state=\"closed\"><img src=\"https://pump.fun/king.png\" alt=\"king of the hill badge\" class=\"h-4\"></div></div></div>]</div></p><p class=\"text-xs flex items-center gap-2\">replies: 90</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Maneku | Maneki's bf (ticker: MANEKU): </span>Hi. I'm Maneki's bf.</p></div></div></a><a href=\"https://pump.fun/CjsN2zijWEEAmB7UqNsJkyMrgUNsYKZQTK7bHYw6FZXS\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmcBEiDyUEgMf1wEtp1u6UBUaEBdoPgejPfom3UYnyCgBo\" alt=\"BlackGummy\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/8UzV9CsHADAmWWfK1EeSF5y7EjvVyeeLjAe5CnJBezeh\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">8UzV9C </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.99K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">BlackGummy (ticker: $BLACKGMY): </span></p></div></div></a><a href=\"https://pump.fun/6YEBTwTraoJY7AKDuPTMMQdzRuQnWszangnAce9vopUr\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmYUr1XkmgauCUCHTDWjpz6xBS7vErzvRbJGCNexxd5zcC\" alt=\"Bun Shurpo\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/BunShurpo\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmYUr1XkmgauCUCHTDWjpz6xBS7vErzvRbJGCNexxd5zcC\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">BunShurpo </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.39K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Bun Shurpo (ticker: $shurpo): </span>Shurpo here, Shurpo there. Shurpo your shoey mfers</p></div></div></a><a href=\"https://pump.fun/544PZq1eK6NWoNg7bysT41tnmqui5aKMfbXqvE6RYsvB\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmS38nX3Bf4afqVTFyMmU1CMTQVqpFp94av4CAR9RSeW7F\" alt=\"Rice Cooker Wif Hat\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/9f5qsb\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmdZkBsoqJ9TvxiiFuAYk8TkGYJzU1VBbatn7eYfMzLD3u\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">9f5qsb </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 31.82K<div class=\"flex text-green-500\">[badge: <div><div><div class=\"cursor-pointer hover:opacity-7\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-:rn:\" data-state=\"closed\"><img src=\"https://pump.fun/king.png\" alt=\"king of the hill badge\" class=\"h-4\"></div></div></div>]</div></p><p class=\"text-xs flex items-center gap-2\">replies: 43</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Rice Cooker Wif Hat (ticker: Rwif): </span>The next wholesome WifHat Meme on sol</p></div></div></a><a href=\"https://pump.fun/HDtZs4U3ZYYYSpcGUkWLC37Lt9ppgCrGp8ciMvmQ32se\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmdQ1U4WvBx2CbyL53DqS4Xsb6jTtXoS4YGqjHUhZnMwsC\" alt=\"ButtleCaps\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/kodi\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmdQ1U4WvBx2CbyL53DqS4Xsb6jTtXoS4YGqjHUhZnMwsC\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">kodi </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 32.11K<div class=\"flex text-green-500\">[badge: <div><div><div class=\"cursor-pointer hover:opacity-7\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-:ro:\" data-state=\"closed\"><img src=\"https://pump.fun/king.png\" alt=\"king of the hill badge\" class=\"h-4\"></div></div></div>]</div></p><p class=\"text-xs flex items-center gap-2\">replies: 99</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">ButtleCaps (ticker: BCAPS): </span>ButtleCaps - Survive the market Fallout with ButtleCaps $CAPS A first of it's kind Meme/Lottery token with locked tokens safe launch! Follow us on X (Twitter) for more information and updates </p></div></div></a><a href=\"https://pump.fun/Do9KMxwsmrysbXAXgeELHuPVKmdRtgHk1LjFnpafdm3f\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmT64soN71r6sfhAmHgZutp8k7RmydtuEyrbAdNZRPjA6b\" alt=\"Matt Furie\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/furie_dev\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmT64soN71r6sfhAmHgZutp8k7RmydtuEyrbAdNZRPjA6b\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">furie_dev </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 5.13K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Matt Furie (ticker: $FURIE): </span>Who Is Matt Furie? Matt Furie is an American cartoonist and illustrator whose name became synonymous with one of the internet's most controversial and widely recognized memes, \"Pepe the Frog.\" Born on July 31, 1979, in Columbus, Ohio, Furie's journey as</p></div></div></a><a href=\"https://pump.fun/JE3WBDEFjz6SdcnSBTRRra9VYF2yZjZuH6hhwsFjZoHX\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/Qme43Dfi1B4ynuhYKL8MgLzhLWNVvSty3DCS2dxewvfpsH\" alt=\"Asian cat\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/paris\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">paris </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 5.19K</p><p class=\"text-xs flex items-center gap-2\">replies: 2</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Asian cat (ticker: \u8c93): </span>Chinese + Cat = Bullish</p></div></div></a><a href=\"https://pump.fun/3M7aafsfsudzwNzV8kAkrGmL4FGNAmE2KpFbTv5uHvCD\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmXg89jqb4aiHHbL1ukmT6BwLGTphSdEGrp14GHz73pBWD\" alt=\"SourGummy\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/snigel\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">snigel </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.96K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">SourGummy (ticker: $SGUMMY): </span>The sweet and sour sensation taking the cryptocurrency world by storm! Inspired by everyone's favorite tangy treat, SourGummy brings a burst of flavor to the digital currency market. With its vibrant colors and bold flavor profile, SourGummy promises a fun and exciting investment experience.</p></div></div></a><a href=\"https://pump.fun/9XZX4e3mHZ8FfsX5dNLEX7f72au5h45kycQU9JQ5bPBs\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmS72arhfBiHwu51eXMge8YzLxXNk7HwJyGK32g9oveP8t\" alt=\"The Collective\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/degenT\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">degenT </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 9.19K</p><p class=\"text-xs flex items-center gap-2\">replies: 1</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">The Collective (ticker: TCOLL): </span>The Collective ALPHA GROUP Exclusive DAO for crypto enthusiasts, providing you with all the information and tools you need to conquer the 2024 bull run! Please join our discord!</p></div></div></a><a href=\"https://pump.fun/HvDswKHojxsMjQ7JQkfgZgc6QRcMSWik7NrEU7CPe25E\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmRYCNd94saAMCK1rwN5uipGhjRjMVbKGVMbuorSYmQewu\" alt=\"MEX Screener\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/mexican\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">mexican </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 28.55K</p><p class=\"text-xs flex items-center gap-2\">replies: 77</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">MEX Screener (ticker: MEX): </span>we r a not a tech community we r a tex mex community</p></div></div></a><a href=\"https://pump.fun/9msyGPGU3GiEwctZDiHXEzfxqoPbHuUmo1Dn1H5DTR94\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmVTedcve5UXmDt2rniHJowjxK6tneaBT1bPR2MtmYzfsw\" alt=\"Moon Wen\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/66bfQ7F8jA41hLB5vgUjdPxkBedXC5LA7wzxy2WrGJ8t\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">66bfQ7 </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 18.51K</p><p class=\"text-xs flex items-center gap-2\">replies: 25</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Moon Wen (ticker: Wen): </span>Smile through the pain. Lambo Wen</p></div></div></a><a href=\"https://pump.fun/D8kmbsjzTVVMaczwmiQPyAd9RZgsfeLUDRqCCuYAcYTu\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmRfMDzbWNPHrPTUNRc3p5HhVUSog3V7Eq7dLAAUEiVAiy\" alt=\"SolCyberDurov\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/easwmh\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">easwmh </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.47K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">SolCyberDurov (ticker: MEMBERZ): </span>Pre-sale on a special mission to the moon leaded by Cyber Durov, get on board ur $MEMBERS and lfg, jeetz not accepted. 1$ cost $MEMBERS incomin </p></div></div></a><a href=\"https://pump.fun/943gL5FGyMMGVbEGJKDTE9qrZ565iHmege2hCX2TAQgB\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/Qmetv4F92weBXm81CVNdDbfSwyheaK4xsg3UYxtDaGLaqg\" alt=\"Pessi\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/Pessimo\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmRzckrnhSWhjZRTHWxqgSxmPAsXY72B8nj2FVnCo9AN8o\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">Pessimo </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 6.17K</p><p class=\"text-xs flex items-center gap-2\">replies: 23</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Pessi (ticker: PESSI): </span>We are Pessi. We are legion. Conquering the internet. Expect the unexpected.</p></div></div></a><a href=\"https://pump.fun/B36XKvXu1oZPStNwBeKDMMWGkmZav2wuJWtnVSBAs6hG\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmaGaFMnWgTTaKSdsChTmjUNCEiR3eKq3kgQhAemqDrKcx\" alt=\"Xiongmao Coin\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/BHcfk3AoZamHDLbB8aJXAGxeBzUx19MTTy2DS9SQsWhv\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">BHcfk3 </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.50K</p><p class=\"text-xs flex items-center gap-2\">replies: 1</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Xiongmao Coin (ticker: $XIONG): </span>Forge ahead to greatness with the Giant Panda!</p></div></div></a><a href=\"https://pump.fun/4VAeVG8S3hNfwYCHPH3EYjYh7UPk5E3idwCHgCnc51sm\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmXR2enUnKSZRrcZx7TBxy8t3PXg7AMhqZ3SgTBx3PWPQZ\" alt=\"Manekiller\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/7JuGCM\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">7JuGCM </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 5.09K</p><p class=\"text-xs flex items-center gap-2\">replies: 2</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">Manekiller (ticker: Manekiller): </span>Manekiller MK smoking on the ops </p></div></div></a><a href=\"https://pump.fun/7Dew329bRh3QKDxvULSGb6x3xRWtSSXxGQm1o2TDYqwM\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmdJyporyTCMQMLc4DchwikP9txdh85JQHtfLvAa6edCu3\" alt=\"AssetX\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/FPANKGzbcGKSQQensmZ5P3V441D2dkmv3NyJ7NRjFLaK\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">FPANKG </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.65K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">AssetX (ticker: ASTX): </span>At ASSETX, we\u2019re revolutionizing the way you trade and manage your assets. Our platform brings together cutting-edge technology, a user-friendly interface, and a wide range of assets to offer you a seamless trading experience like never before. https://assetx.network/</p></div></div></a><a href=\"https://pump.fun/3f8FYAzKkasdDBpYkHrNYPj5u1AU5GdESsYXdMXYbzwt\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmfVo4z7c8XbVPpXu1yPsTZPM6N7w75hWxoWLcHoZc2HJE\" alt=\"CENSORED\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/CNSRD\"><div class=\"flex gap-1  items-center\"><img src=\"https://cf-ipfs.com/ipfs/QmZaeYp1FrGYq2K5DzMu6RPmJGh7cw25L2w5Hw8qrsbVX7\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">CNSRD </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 5.43K</p><p class=\"text-xs flex items-center gap-2\">replies: 10</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">CENSORED (ticker: CNSRD): </span>CNSRD is a series of 7777 Rebels on Solana who decided to remain anonymous given their appreciation to privacy and their dedication to fight for freedom. TG : https://t.me/cnsrdonsol</p></div></div></a><a href=\"https://pump.fun/CQt63Hf55ifxhwFnVqrGg5Kr9KVPds6oPchZmuDySBaV\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmZCuAKX1Ct27utgRP4iuDtKTsMM9rLfaDg5PVYwB8r78H\" alt=\"United Pimp Service\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/FudExCEO\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">FudExCEO </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 19.01K<div class=\"flex text-green-500\">[badge: <div><div><div class=\"cursor-pointer hover:opacity-7\" type=\"button\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"radix-:rp:\" data-state=\"closed\"><img src=\"https://pump.fun/king.png\" alt=\"king of the hill badge\" class=\"h-4\"></div></div></div>]</div></p><p class=\"text-xs flex items-center gap-2\">replies: 116</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">United Pimp Service (ticker: $UPIMPS): </span>The sauciest delivery service this side of the red-light district!  UPS is here to deliver laughs, style, and a whole lot of scandalous swagger straight to your bedroom mafaka! delivering them boxes with the charm of a smooth-talking gigolo.</p></div></div></a><a href=\"https://pump.fun/5Qa4mQfpUsve6hK98kRhC9GwUzFMnSYoeMh6QiyzKKv7\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/Qmezp4mk7Ufv3H5BBgSQVM9xbFf328onSTecZq37UzExrq\" alt=\"TRUST\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/Poomoney\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">Poomoney </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.65K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">TRUST (ticker: TRUST): </span>LOVE AND TRUST</p></div></div></a><a href=\"https://pump.fun/DVJnvC26PPvwWFtMZqPMY3yEmfcq4K8ZL4wjjqbDAMxn\"><div class=\"max-h-[300px] overflow-hidden h-fit p-2 flex border border-transparent hover:border-white gap-2 w-full \"><div class=\"min-w-32\"><img class=\"mr-4 w-32 h-auto\" src=\"https://cf-ipfs.com/ipfs/QmVcskPsZHBtgKMi6v58N3hCgWNh6oUD5w8QGHahJcZHAr\" alt=\"PIGGY BANK\"></div><div class=\"gap-1 grid h-fit\"><div class=\"text-xs text-blue-200 flex items-center gap-2\"><div>Created by</div><a href=\"https://pump.fun/profile/Aj9VDdowUBg1XuLs5nkMnA1MeCT2y4DGrgRTAMo7Uw3U\"><div class=\"flex gap-1  items-center\"><img src=\"https://pump.fun/pepe.png\" class=\"w-4 h-4 rounded\"><div class=\"px-1 rounded hover:underline flex gap-1\" style=\"background-color: transparent;\">Aj9VDd </div></div></a></div><p class=\"text-xs text-green-300 flex gap-1\">market cap: 4.85K</p><p class=\"text-xs flex items-center gap-2\">replies: 0</p><p class=\"text-sm w-full\" style=\"overflow-wrap: break-word; word-break: break-all;\"><span class=\"font-bold\">PIGGY BANK (ticker: PIGGY): </span>The \"piggy bank,\" or pig-shaped coin bank, has a history that spans several centuries. The term \"pig\" in Old English was \"pygg,\" which referred to a type of clay used for making all kinds of household pottery in medieval England. People saved their money in jars and dishes made of pygg, known as \"pygg jars.\" Over time and with changes in language, the pronunciation of \"pygg\" shifted closer to \"pig,\" the English word for the animal. This prompted potters to start crafting savings banks in the shape of pigs, capitalizing on the wordplay. Pigs were also associated with prosperity and abundance in various cultures, complementing the idea of saving coins. Thus, the pig-shaped coin bank became a popular symbol for money conservation, especially among children. As the concept spread, piggy banks gained popularity around the world, becoming an iconic element of savings in many households.</p></div></div></a></div><div class=\"w-full flex justify-center mt-4\"><div class=\"justify-self-end mb-20\"><div class=\"flex justify-center space-x-2 text-slate-50\"><button disabled=\"\" class=\"text-sm text-slate-400 cursor-not-allowed\">[ &lt;&lt; ]</button><span>1</span><button class=\"text-sm text-slate-400 cursor-not-allowed\" disabled=\"\">[ &gt;&gt; ]</button></div></div></div></div></div></main></div><div role=\"region\" aria-label=\"Notifications (F8)\" tabindex=\"-1\" style=\"pointer-events: none;\" data-aria-hidden=\"true\" aria-hidden=\"true\"><ol tabindex=\"-1\" class=\"fixed top-0 z-[100] max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max-w-[420px] grid gap-2\"></ol></div> <next-route-announcer data-aria-hidden=\"true\" aria-hidden=\"true\" style=\"position: absolute;\"></next-route-announcer><div data-state=\"open\" class=\"fixed inset-0 z-50 bg-black/80 data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0\" style=\"pointer-events: auto;\" data-aria-hidden=\"true\" aria-hidden=\"true\"></div><div role=\"dialog\" id=\"radix-:r2:\" aria-describedby=\"radix-:r4:\" aria-labelledby=\"radix-:r3:\" data-state=\"open\" class=\"fixed left-[50%] top-[50%] z-50 grid w-full max-w-lg translate-x-[-50%] translate-y-[-50%] gap-4 border border-slate-200 shadow-lg duration-200 data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 data-[state=closed]:slide-out-to-left-1/2 data-[state=closed]:slide-out-to-top-[48%] data-[state=open]:slide-in-from-left-1/2 data-[state=open]:slide-in-from-top-[48%] sm:rounded-lg dark:border-slate-800 dark:bg-slate-950 bg-primary text-white p-4 text-center\" tabindex=\"-1\" style=\"pointer-events: auto;\"><div class=\"flex flex-col space-y-1.5 sm:text-left text-center\"><h2 id=\"radix-:r3:\" class=\"text-lg font-semibold leading-none tracking-tight text-center\">How it works</h2></div><div>Pump prevents rugs by making sure that all created tokens are safe. Each coin on pump is a <span class=\"text-green-300 bold\">fair-launch</span> with <span class=\"text-blue-300\">no presale</span> and <span class=\"text-orange-300\">no team allocation.</span></div><div class=\"bg-primary text-white p-4 space-y-4\"><div class=\"text-gray-300\">step 1: pick a coin that you like</div><div class=\"text-gray-300\">step 2: buy the coin on the bonding curve</div><div class=\"text-gray-300\">step 3: sell at any time to lock in your profits or losses</div><div class=\"text-gray-300\">step 4: when enough people buy on the bonding curve it reaches a market cap of $69k</div><div class=\"text-gray-300\">step 5: $12k of liquidity is then deposited in raydium and burned</div></div><button class=\"inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 dark:ring-offset-slate-950 dark:focus-visible:ring-slate-300 dark:hover:bg-slate-800 dark:hover:text-slate-50 h-10 px-4 py-2 text-slate-50 hover:font-bold hover:bg-transparent hover:text-slate-50\">[I'm ready to pump]</button></div><span data-radix-focus-guard=\"\" tabindex=\"0\" style=\"outline: none; opacity: 0; position: fixed; pointer-events: none;\" data-aria-hidden=\"true\" aria-hidden=\"true\"></span>"
+}
