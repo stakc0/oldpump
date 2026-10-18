@@ -4,51 +4,22 @@ import referenceMarkup from "../reference/app-root-local.html?raw";
 import "./reference.css";
 import "./styles.css";
 
+const MAIN_CA = "GGFSjqgpoQ43n8U1cHVxhbRmZMa7pgaWrL6jfL77pump";
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+const compact = (n) => { n = Number(n || 0); if (!n) return "—"; if (n >= 1e9) return `$${(n/1e9).toFixed(2)}B`; if (n >= 1e6) return `$${(n/1e6).toFixed(2)}M`; if (n >= 1e3) return `$${(n/1e3).toFixed(n >= 1e5 ? 0 : 1)}K`; return `$${n.toFixed(0)}`; };
+const short = (s) => `${String(s).slice(0, 5)}…${String(s).slice(-5)}`;
 function Overlay({ kind, close }) {
   const title = kind === "how" ? "How it works" : kind === "wallet" ? "Connect wallet" : "Pump.fun";
-  return <div className="oldpump-overlay" role="presentation" onMouseDown={(e) => e.target === e.currentTarget && close()}>
-    <section className={`oldpump-modal ${kind}`} role="dialog" aria-modal="true" aria-label={title}>
-      <button className="oldpump-close" onClick={close} aria-label="Close">×</button>
-      {kind === "how" ? <>
-        <h2>How it works</h2>
-        <p>Pump prevents rugs by making sure that all created tokens are safe. Each coin on pump is a <em className="green">fair-launch</em> with <em className="blue">no presale</em> and <em className="orange">no team allocation.</em></p>
-        <ol><li>pick a coin that you like</li><li>buy the coin on the bonding curve</li><li>sell at any time to lock in your profits or losses</li><li>when enough people buy, the coin reaches the migration threshold</li><li>liquidity is deposited and burned on the destination DEX</li></ol>
-        <button className="oldpump-ready" onClick={close}>[I'm ready to pump]</button>
-      </> : kind === "wallet" ? <>
-        <h2>Connect wallet</h2><p className="oldpump-muted">Wallet connection is available as a UI flow in this clone. No wallet session or transaction is created automatically.</p><div className="oldpump-wallet-list"><button onClick={close}>Phantom</button><button onClick={close}>Solflare</button><button onClick={close}>Backpack</button></div><small>Demo surface only · user approval is always required.</small>
-      </> : <><h2>Token</h2><p>Open a token card to inspect its captured board details.</p></>}
-    </section>
-  </div>;
+  return <div className="oldpump-overlay" role="presentation" onMouseDown={(e) => e.target === e.currentTarget && close()}><section className={`oldpump-modal ${kind}`} role="dialog" aria-modal="true" aria-label={title}><button className="oldpump-close" onClick={close} aria-label="Close">×</button>{kind === "how" ? <><h2>How it works</h2><p>Pump prevents rugs by making sure that all created tokens are safe. Each coin on pump is a <em className="green">fair-launch</em> with <em className="blue">no presale</em> and <em className="orange">no team allocation.</em></p><ol><li>pick a coin that you like</li><li>buy the coin on the bonding curve</li><li>sell at any time to lock in your profits or losses</li><li>when enough people buy, the coin reaches the migration threshold</li><li>liquidity is deposited and burned on the destination DEX</li></ol><button className="oldpump-ready" onClick={close}>[I'm ready to pump]</button></> : kind === "wallet" ? <><h2>Connect wallet</h2><p className="oldpump-muted">Connect your wallet to trade the live board.</p><div className="oldpump-wallet-list"><button onClick={close}>Phantom</button><button onClick={close}>Solflare</button><button onClick={close}>Backpack</button></div></> : <><h2>Token</h2><p>Open a token card to inspect its live market details.</p></>}</section></div>;
 }
-
+function liveNav(stats) { return `<div class="oldpump-live-nav"><a href="https://pump.fun/coin/${MAIN_CA}" target="_blank" rel="noopener"><b>INTERACT</b> <span>${short(MAIN_CA)}</span></a><span><i>MC</i> ${compact(stats.mc)}</span><span><i>VOL</i> ${compact(stats.vol)}</span><small>live via Dexscreener</small></div>`; }
+function liveCard(t) { const links = t.links || {}; return `<article class="oldpump-live-card"><a class="oldpump-live-img" href="https://pump.fun/coin/${esc(t.mint)}" target="_blank" rel="noopener"><img src="${esc(t.image || '/oldpump-logo.png')}" alt="${esc(t.name || t.symbol)}" loading="lazy"><span>${short(t.mint)}</span></a><div class="oldpump-live-copy"><div class="oldpump-live-title"><b>${esc(t.name || 'Unnamed')}</b><strong>$${esc(t.symbol || 'COIN')}</strong></div><div class="oldpump-live-sub">market cap: <b>${compact(t.marketCapUsd)}</b> · vol: <b>${compact(t.volume?.h24)}</b></div><p>${esc(t.description || t.name || 'Live Solana token')}</p><div class="oldpump-socials">${links.twitter ? `<a href="${esc(links.twitter)}" target="_blank" rel="noopener">[x]</a>` : ''}${links.telegram ? `<a href="${esc(links.telegram)}" target="_blank" rel="noopener">[tg]</a>` : ''}${links.website ? `<a href="${esc(links.website)}" target="_blank" rel="noopener">[site]</a>` : ''}<span>${esc(t.dexId || 'pump-fun')}</span></div></div></article>`; }
 function App() {
-  const rootRef = useRef(null);
-  const [overlay, setOverlay] = useState("how");
-  useEffect(() => {
-    const root = rootRef.current;
-    if (!root) return;
-    const buttons = [...root.querySelectorAll("button")];
-    const onClick = (event) => {
-      const button = event.currentTarget;
-      const text = button.textContent.trim().toLowerCase();
-      if (text.includes("how it works")) return setOverlay("how");
-      if (text.includes("connect wallet") || text.includes("start a new coin")) return setOverlay("wallet");
-      if (text.includes("sort:") || text.includes("order:") || text === "[ << ]" || text === "[ >> ]") {
-        button.dataset.active = button.dataset.active === "true" ? "false" : "true";
-        button.style.outline = button.dataset.active === "true" ? "2px solid #86efac" : "";
-      }
-    };
-    buttons.forEach((button) => button.addEventListener("click", onClick));
-    const links = [...root.querySelectorAll('a[href*="/coin/"], a[href*="/token/"]')];
-    const onCard = (event) => { event.preventDefault(); setOverlay("token"); };
-    links.forEach((link) => link.addEventListener("click", onCard));
-    return () => { buttons.forEach((button) => button.removeEventListener("click", onClick)); links.forEach((link) => link.removeEventListener("click", onCard)); };
-  }, []);
-  return <>
-    <div ref={rootRef} className="oldpump-reference-root" dangerouslySetInnerHTML={{ __html: referenceMarkup }} />
-    {overlay && <Overlay kind={overlay} close={() => setOverlay(null)} />}
-    {!overlay && <button className="oldpump-reopen" onClick={() => setOverlay("how")} aria-label="Open how it works">[how it works]</button>}
-  </>;
+  const rootRef = useRef(null); const [overlay, setOverlay] = useState("how"); const [stats, setStats] = useState({}); const [feed, setFeed] = useState([]);
+  const markup = referenceMarkup.replaceAll('/assets/f9e72db465ca.png', '/oldpump-logo.png').replace('</nav>', '<div id="oldpump-live-nav"></div></nav>').replace('<div class="grid gap-6 md:gap-12 md:px-12 px-2">', '<div id="oldpump-live-feed"></div><div class="grid gap-6 md:gap-12 md:px-12 px-2" style="display:none">');
+  useEffect(() => { const root = rootRef.current; if (!root) return; const buttons = [...root.querySelectorAll("button")]; const onClick = (event) => { const text = event.currentTarget.textContent.trim().toLowerCase(); if (text.includes("how it works")) setOverlay("how"); if (text.includes("connect wallet") || text.includes("start a new coin")) setOverlay("wallet"); }; buttons.forEach((b) => b.addEventListener("click", onClick)); const links = [...root.querySelectorAll('a[href*="/coin/"], a[href*="/token/"]')]; const onCard = (e) => { e.preventDefault(); setOverlay("token"); }; links.forEach((l) => l.addEventListener("click", onCard)); return () => { buttons.forEach((b) => b.removeEventListener("click", onClick)); links.forEach((l) => l.removeEventListener("click", onCard)); }; }, []);
+  useEffect(() => { let dead = false; async function load() { try { const [d, p] = await Promise.all([fetch(`/api/paper/dex?mint=${MAIN_CA}`, {cache:'no-store'}).then(r=>r.json()), fetch('/api/paper/feed/new?page=1&size=60', {cache:'no-store'}).then(r=>r.json())]); if (dead) return; const pair = (d.pairs || []).filter(x => x.chainId === 'solana').sort((a,b) => Number(b.liquidity?.usd||0)-Number(a.liquidity?.usd||0))[0]; setStats({ mc: Number(pair?.marketCap || pair?.fdv || 0), vol: Number(pair?.volume?.h24 || 0) }); setFeed(Array.isArray(p.items) ? p.items : []); } catch {} } load(); const id = setInterval(load, 5000); return () => { dead = true; clearInterval(id); }; }, []);
+  useEffect(() => { const n = rootRef.current?.querySelector('#oldpump-live-nav'), f = rootRef.current?.querySelector('#oldpump-live-feed'); if (n) n.innerHTML = liveNav(stats); if (f) f.innerHTML = `<div class="oldpump-feed-head"><b>live coins</b><span>images · tickers · socials · MC · VOL</span><small>Paper feed · refreshing</small></div><div class="oldpump-live-grid">${feed.length ? feed.map(liveCard).join('') : '<div class="oldpump-feed-loading">loading live Solana coins…</div>'}</div>`; }, [stats, feed]);
+  return <><div ref={rootRef} className="oldpump-reference-root" dangerouslySetInnerHTML={{__html: markup}} />{overlay && <Overlay kind={overlay} close={() => setOverlay(null)} />}{!overlay && <button className="oldpump-reopen" onClick={() => setOverlay("how")} aria-label="Open how it works">[how it works]</button>}</>;
 }
-
 createRoot(document.getElementById("root")).render(<App />);
