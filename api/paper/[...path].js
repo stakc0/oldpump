@@ -6,8 +6,9 @@ export default async function handler(req, res) {
     if (path === 'feed/new') {
       target = new URL('https://usepaper.app/api/paper/feed/new');
       for (const [k, v] of url.searchParams) target.searchParams.set(k, v);
-    } else if (path === 'dex') {
-      const mint = url.searchParams.get('mint') || '';
+    } else if (path === 'dex' || path.startsWith('dex/')) {
+      const mint = url.searchParams.get('mint') || path.slice('dex/'.length);
+      if (!mint) return res.status(400).json({ ok: false, error: 'mint is required' });
       target = new URL(`https://api.dexscreener.com/latest/dex/tokens/${encodeURIComponent(mint)}`);
     } else return res.status(404).json({ ok: false, error: 'Not found' });
     const r = await fetch(target, { headers: { accept: 'application/json', 'user-agent': 'oldpump-live/1.0' }, signal: AbortSignal.timeout(8000) });
