@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/paper/feed/new", "destination": "https://usepaper.app/api/paper/feed/new" },
+    { "source": "/api/paper/dex/:mint", "destination": "https://api.dexscreener.com/latest/dex/tokens/:mint" }
+  ]
+}
