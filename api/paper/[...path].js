@@ -10,6 +10,11 @@ export default async function handler(req, res) {
       const mint = url.searchParams.get('mint') || path.slice('dex/'.length);
       if (!mint) return res.status(400).json({ ok: false, error: 'mint is required' });
       target = new URL(`https://api.dexscreener.com/latest/dex/tokens/${encodeURIComponent(mint)}`);
+    } else if (path.startsWith('token/')) {
+      const mint = path.slice('token/'.length);
+      if (!mint) return res.status(400).json({ ok: false, error: 'mint is required' });
+      target = new URL(`https://usepaper.app/api/paper/token/${encodeURIComponent(mint)}`);
+      for (const [k, v] of url.searchParams) target.searchParams.set(k, v);
     } else return res.status(404).json({ ok: false, error: 'Not found' });
     const r = await fetch(target, { headers: { accept: 'application/json', 'user-agent': 'oldpump-live/1.0' }, signal: AbortSignal.timeout(8000) });
     const body = await r.text();
